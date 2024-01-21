@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "section": "10A",
+    "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg",
+    "type": "student"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "section": "11B",
+    "image": "https://img.freepik.com/free-photo/happiness-wellbeing-confidence-concept-cheerful-attractive-african-american-woman-curly-haircut-cross-arms-chest-self-assured-powerful-pose-smiling-determined-wear-yellow-sweater_176420-35063.jpg",
+    "type": "student"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "section": "9C",
+    "image": "https://img.freepik.com/free-photo/indian-man-smiling-cheerful-expression-closeup-portrait_53876-129387.jpg",
+    "type": "student"
+  },
+  {
+    "id": 4,
+    "name": "Alice Williams",
+    "section": "12D",
+    "image": "https://img.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg",
+    "type": "student"
+  },
+  {
+    "id": 5,
+    "name": "Professor Smith",
+    "section": "Mathematics",
+    "image": "https://img.freepik.com/free-photo/portrait-young-indian-top-manager-t-shirt-tie-crossed-arms-smiling-white-isolated-wall_496169-1513.jpg",
+    "type": "teacher"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Johnson",
+    "section": "Physics",
+    "image": "https://img.freepik.com/premium-photo/portrait-smiling-young-man-posing-camera_116547-20489.jpg",
+    "type": "teacher"
+  }
+]
